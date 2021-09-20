@@ -1,0 +1,12 @@
+what is a garbage collection ?
+
+
+Image result for garbage collection
+In computer science, garbage collection (GC) is a form of automatic memory management. The garbage collector attempts to reclaim memory which was allocated by the program, but is no longer referenced
+
+
+
+How it is used in python?
+Python's garbage collector runs during program execution and is triggered when an object's reference count reaches zero. An object's reference count changes as the number of aliases that point to it changes
+
+
