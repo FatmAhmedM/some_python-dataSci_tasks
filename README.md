@@ -7,6 +7,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Assignment1
 =======
 # task2
@@ -36,3 +37,6 @@ tree implementation
 =======
 # task12
 >>>>>>> task12/main
+=======
+# task14
+>>>>>>> task14/main
